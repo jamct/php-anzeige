@@ -1,0 +1,1 @@
+{"id":"beispiel_anzeige","name":"Testbildschirm","standort":"Eingangshalle","reload":false,"lastTS":0,"content":"iframe1","counter":1}
